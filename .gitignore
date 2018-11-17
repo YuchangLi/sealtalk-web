@@ -8,3 +8,5 @@ typings
 *.log
 src/test.html
 .DS_Store
+dist/
+package-lock.json
